@@ -1,0 +1,18 @@
+{
+  "name": "THREE SIX NINE",
+  "legalName": "369 Rentals by San Roku Ku",
+  "tagline": "Premium camera and lens rental for film, commercial, and documentary production.",
+  "baseUrl": "https://sanrokuku.com",
+  "email": "rentals@sanrokuku.com",
+  "location": {
+    "locality": "London",
+    "region": "Greater London",
+    "postalCode": "W1F",
+    "country": "GB"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/@sanrokuku",
+    "imdb": "https://www.imdb.com/"
+  },
+  "accent": "#42f5e0"
+}

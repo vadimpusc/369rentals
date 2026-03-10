@@ -1,0 +1,123 @@
+[
+  {
+  "slug": "dji-ronin-s",
+  "name": "DJI Ronin-S",
+  "brand": "DJI",
+  "category": "Accessories",
+  "group": "Grip",
+  "summary": "Single-handed 3-axis gimbal stabiliser for DSLR and mirrorless cameras.",
+  "description": "The DJI Ronin-S is a professional handheld gimbal designed to deliver smooth, stabilised footage for single-operator shooting. Built for mirrorless and DSLR cameras, it offers powerful motors, multiple shooting modes, and intuitive controls directly on the grip. Ideal for documentary work, music videos, commercial shoots, and lightweight cinema builds.",
+  "image": "/placeholders/acc-1.svg",
+  "kitIncludes": [
+    "Ronin-S gimbal",
+    "BG37 battery grip",
+    "Quick release plate",
+    "Tripod stand",
+    "Camera control cables",
+    "USB-C charging cable",
+    "Carrying case"
+  ],
+  "specs": {
+    "Axes": "3-axis stabilisation",
+    "Payload": "Up to 3.6 kg",
+    "Battery Life": "Up to 12 hours",
+    "Control": "Bluetooth / mobile app",
+    "Ports": "USB-C / camera control",
+    "Weight": "1.86 kg"
+  }
+},
+{
+  "slug": "l-mount-to-m42-adapter",
+  "name": "L-Mount to M42 Adapter",
+  "brand": "Generic",
+  "category": "Accessories",
+  "group": "Other",
+  "summary": "Mechanical adapter for mounting vintage M42 lenses on L-Mount cameras.",
+  "description": "A precision mechanical adapter that allows classic M42 screw-mount lenses to be used on modern L-Mount cameras such as Panasonic Lumix S series bodies. Designed for a secure fit while maintaining the correct flange distance for accurate infinity focus. Ideal for filmmakers using vintage lenses like Helios or Zeiss Jena.",
+  "image": "/placeholders/acc-2.svg",
+  "kitIncludes": [
+    "L-Mount to M42 adapter",
+    "Protective caps"
+  ],
+  "specs": {
+    "Camera Mount": "L-Mount",
+    "Lens Mount": "M42 screw mount",
+    "Type": "Mechanical adapter",
+    "Infinity Focus": "Supported",
+    "Electronic Contacts": "No"
+  }
+},
+{
+  "slug": "m42-to-canon-ef-adapter",
+  "name": "M42 to Canon EF Adapter",
+  "brand": "Generic",
+  "category": "Accessories",
+  "group": "Other",
+  "summary": "Mechanical adapter for mounting M42 screw lenses on Canon EF mount cameras.",
+  "description": "A precision mechanical adapter that allows vintage M42 screw-mount lenses to be used on Canon EF mount cameras. Designed to maintain the correct flange distance for accurate infinity focus. Ideal for adapting classic lenses such as Helios or Zeiss Jena to Canon EF cinema and DSLR bodies.",
+  "image": "/placeholders/acc-3.svg",
+  "kitIncludes": [
+    "M42 to Canon EF adapter",
+    "Protective caps"
+  ],
+  "specs": {
+    "Camera Mount": "Canon EF",
+    "Lens Mount": "M42 screw mount",
+    "Type": "Mechanical adapter",
+    "Infinity Focus": "Supported",
+    "Electronic Contacts": "No"
+  }
+},
+{
+  "slug": "feelworld-fw568-monitor",
+  "name": "Feelworld 5.5\" Field Monitor",
+  "brand": "Feelworld",
+  "category": "Accessories",
+  "group": "Monitoring",
+  "summary": "Compact 5.5 inch on-camera monitor with 4K HDMI support and LUT preview.",
+  "description": "The Feelworld FW568 is a lightweight 5.5 inch field monitor designed for DSLR and mirrorless camera rigs. It provides a bright IPS display with accurate color, making it useful for framing, focus checking, and exposure monitoring on set. With 3D LUT support, waveform tools, and HDMI loop-out, it works well for handheld, gimbal, and lightweight cinema setups.",
+  "image": "/placeholders/acc-4.svg",
+  "kitIncludes": [
+    "Feelworld FW568 monitor",
+    "Tilt arm mount",
+    "HDMI cable",
+    "NP-F battery",
+    "Battery charger",
+    "Sun hood"
+  ],
+  "specs": {
+    "Display Size": "5.5 inch",
+    "Resolution": "1920 × 1152",
+    "Brightness": "500 nits",
+    "Inputs": "HDMI",
+    "Outputs": "HDMI loop out",
+    "Tools": "3D LUT, focus peaking, waveform, false color",
+    "Power": "NP-F battery / DC input",
+    "Weight": "175 g"
+  }
+},
+{
+  "slug": "np-f-battery-adapter-plate-12v",
+  "name": "NP-F Battery Adapter Plate (12V)",
+  "brand": "Generic",
+  "category": "Accessories",
+  "group": "Other",
+  "summary": "Power adapter plate for Sony NP-F batteries with regulated 12V output.",
+  "description": "A battery adapter plate designed to power cameras and accessories using Sony NP-F series batteries such as NP-F550, F750, F770, F960, and F970. The plate mounts to camera rigs and provides regulated DC power output via a 12V cable, making it useful for powering monitors, wireless transmitters, cameras, or other on-set accessories. A practical solution for extending runtime on lightweight cinema setups.",
+  "image": "/placeholders/acc-4.svg",
+  "kitIncludes": [
+    "NP-F battery adapter plate",
+    "12V DC cable",
+    "Mounting screws",
+    "Allen key"
+  ],
+  "specs": {
+    "Battery Type": "Sony NP-F series (F550 / F750 / F770 / F960 / F970)",
+    "Output Voltage": "12V DC",
+    "Additional Output": "7.4V DC (model dependent)",
+    "Mounting": "1/4\"-20 screw mount",
+    "Material": "Aluminum / ABS",
+    "Use": "External camera and accessory power"
+  }
+}
+]

@@ -1,0 +1,89 @@
+[
+  {
+  "slug": "canon-c100-mark-1",
+  "name": "Canon C100 Mark I",
+  "brand": "Canon",
+  "category": "Cameras",
+  "summary": "Compact Super 35 cinema camera with Canon color science and reliable 1080p recording.",
+  "description": "The Canon C100 Mark I is a lightweight cinema camera built around Canon’s Super 35 sensor and renowned color science. It is ideal for documentaries, interviews, corporate video, and small productions where reliability and fast setup are important. Internal AVCHD recording keeps file sizes manageable while clean HDMI output allows higher-quality external recording if needed.",
+  "image": "/placeholders/camera-1.svg",
+  "kitIncludes": [
+    "Canon C100 Mark I body",
+    "Top handle with dual XLR inputs",
+    "Side grip",
+    "2x Canon BP batteries",
+    "Battery charger",
+    "SD cards",
+    "Baseplate with 15mm rods"
+  ],
+  "specs": {
+    "Sensor": "Super 35mm CMOS",
+    "Resolution": "1920×1080",
+    "Recording": "AVCHD up to 28 Mbps",
+    "Mount": "Canon EF mount",
+    "Media": "SD / SDHC / SDXC cards (dual slots)",
+    "Outputs": "Clean HDMI output",
+    "ISO": "Native ISO 850",
+    "ND Filters": "Built-in ND (2, 4, 6 stops)",
+    "Power": "Canon BP series batteries"
+  }
+},
+{
+  "slug": "lumix-s9",
+  "name": "Panasonic Lumix S9",
+  "brand": "Panasonic",
+  "category": "Cameras",
+  "summary": "Compact full-frame hybrid camera with 6K video and L-Mount lens system.",
+  "description": "The Panasonic Lumix S9 is a compact full-frame mirrorless camera designed for modern hybrid creators. Featuring a 24.2MP full-frame sensor and Panasonic’s color science, it delivers high-quality stills and professional video in a lightweight body. The camera supports 6K open-gate recording and advanced autofocus, making it suitable for documentary work, travel filmmaking, social content, and small production setups.",
+  "image": "/placeholders/camera-2.svg",
+  "kitIncludes": [
+    "Lumix S9 body",
+    "Battery (DMW-BLK22)",
+    "USB-C charging cable",
+    "Body cap",
+    "Shoulder strap",
+    "SD card"
+  ],
+  "specs": {
+    "Sensor": "24.2MP Full-frame CMOS",
+    "Resolution": "6000 × 4000",
+    "Video": "6K 30p / 4K 60p",
+    "Recording": "10-bit internal recording",
+    "Mount": "L-Mount",
+    "Media": "SD / SDHC / SDXC (UHS-II)",
+    "Stabilisation": "5-axis IBIS",
+    "ISO": "100–51,200 (Dual Native ISO 100 / 640)",
+    "Power": "DMW-BLK22 battery"
+  }
+},
+{
+  "slug": "dji-osmo-action-4",
+  "name": "DJI Osmo Action 4",
+  "brand": "DJI",
+  "category": "Cameras",
+  "summary": "Compact 4K action camera with a large 1/1.3\" sensor and advanced stabilisation.",
+  "description": "The DJI Osmo Action 4 is a rugged action camera designed for high-quality footage in extreme environments. Its large 1/1.3-inch sensor delivers strong low-light performance compared to typical action cameras, while 10-bit D-Log M recording allows greater flexibility in color grading. With RockSteady and HorizonSteady stabilisation, it produces smooth footage for sports, travel, POV shots, and lightweight production setups.",
+  "image": "/placeholders/camera-3.svg",
+  "kitIncludes": [
+    "DJI Osmo Action 4 camera",
+    "Protective frame mount",
+    "Quick-release adapter mount",
+    "Battery",
+    "USB-C charging cable",
+    "Curved adhesive mount",
+    "microSD card"
+  ],
+  "specs": {
+    "Sensor": "1/1.3-inch CMOS",
+    "Resolution": "3648 × 2736 (10 MP photo)",
+    "Video": "4K up to 120fps",
+    "Lens": "155° ultra-wide, f/2.8",
+    "Recording": "10-bit D-Log M, H.264 / H.265",
+    "Stabilisation": "RockSteady 3.0 / HorizonSteady",
+    "Media": "microSD card",
+    "ISO": "100–12,800",
+    "Waterproof": "Up to 18m without case",
+    "Power": "1770 mAh rechargeable battery"
+  }
+}
+]

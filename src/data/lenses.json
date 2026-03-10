@@ -1,0 +1,108 @@
+[
+{
+  "slug": "helios-44-2-58mm",
+  "name": "Helios 44-2 58mm f/2",
+  "brand": "Helios",
+  "category": "Lenses",
+  "type": "Spherical",
+  "summary": "Legendary Soviet vintage lens known for its distinctive swirly bokeh and cinematic character.",
+  "description": "The Helios 44-2 is a classic Soviet 58mm f/2 lens based on the Zeiss Biotar optical formula. It is famous for its unique swirly bokeh, soft contrast wide open, and distinctive vintage rendering that many filmmakers use to add character to digital cameras. The lens is fully manual and adapts easily to modern cameras using simple mechanical adapters.",
+  "image": "/placeholders/lens-2.svg",
+  "kitIncludes": [
+    "Helios 44-2 58mm lens",
+    "Front cap + rear cap",
+    "M42 adapter (Canon EF or L-Mount option)",
+    "Protective pouch"
+  ],
+  "specs": {
+    "Mount": "M42 screw mount (EF / L-Mount adapter available)",
+    "Focal Length": "58 mm",
+    "Aperture": "f/2 – f/16",
+    "Coverage": "Full Frame",
+    "Minimum Focus": "0.5 m",
+    "Filter Thread": "49 mm",
+    "Optical Design": "6 elements in 4 groups",
+    "Focus": "Manual focus"
+  }
+},
+{
+  "slug": "helios-28mm-f2-8",
+  "name": "Helios 28mm f/2.8",
+  "brand": "Helios",
+  "category": "Lenses",
+  "type": "Spherical",
+  "summary": "Compact vintage wide-angle lens with classic rendering and manual control.",
+  "description": "The Helios 28mm f/2.8 is a compact vintage wide-angle prime lens commonly found in M42 mount and often marked “Made in Japan.” Designed for manual photography, it delivers solid centre sharpness, vintage contrast, and classic flare characteristics that pair well with modern digital cameras. Its small size and simple mechanical design make it a practical option for lightweight rigs and creative filmmaking.",
+  "image": "/placeholders/lens-3.svg",
+  "kitIncludes": [
+    "Helios 28mm f/2.8 lens",
+    "Front cap + rear cap",
+    "M42 adapter (Canon EF or L-Mount option)",
+    "Protective pouch"
+  ],
+  "specs": {
+    "Mount": "M42 screw mount (EF / L-Mount adapter available)",
+    "Focal Length": "28 mm",
+    "Aperture": "f/2.8 – f/22",
+    "Coverage": "Full Frame",
+    "Minimum Focus": "0.45 m",
+    "Filter Thread": "58 mm",
+    "Focus": "Manual focus",
+    "Lens Type": "Wide-angle prime"
+  }
+},
+{
+  "slug": "carl-zeiss-jena-tessar-50mm-f2-8",
+  "name": "Carl Zeiss Jena Tessar 50mm f/2.8",
+  "brand": "Carl Zeiss Jena",
+  "category": "Lenses",
+  "type": "Spherical",
+  "summary": "Classic German vintage prime known for sharp rendering and compact design.",
+  "description": "The Carl Zeiss Jena Tessar 50mm f/2.8 is a legendary vintage standard lens based on the classic Tessar optical design. Known for strong centre sharpness, smooth manual focus mechanics, and compact size, it has long been a favourite for adapting to modern digital cameras. The lens delivers a clean vintage rendering with natural contrast and subtle character that works well for portraits, documentary work, and creative filmmaking.",
+  "image": "/placeholders/lens-4.svg",
+  "kitIncludes": [
+    "Carl Zeiss Jena Tessar 50mm f/2.8 lens",
+    "Front cap + rear cap",
+    "M42 adapter (Canon EF or L-Mount option)",
+    "Protective pouch"
+  ],
+  "specs": {
+    "Mount": "M42 screw mount (EF / L-Mount adapter available)",
+    "Focal Length": "50 mm",
+    "Aperture": "f/2.8 – f/22",
+    "Coverage": "Full Frame",
+    "Minimum Focus": "0.35 m",
+    "Filter Thread": "49 mm",
+    "Optical Design": "4 elements in 3 groups (Tessar)",
+    "Focus": "Manual focus"
+  }
+},
+{
+  "slug": "panasonic-lumix-s-18-40mm-f4-5-6-3",
+  "name": "Panasonic Lumix S 18-40mm f/4.5-6.3",
+  "brand": "Panasonic",
+  "category": "Lenses",
+  "type": "Zoom",
+  "summary": "Ultra-compact full-frame zoom covering ultra-wide to standard focal lengths.",
+  "description": "The Panasonic Lumix S 18-40mm f/4.5-6.3 is an extremely compact and lightweight full-frame zoom lens designed for the L-Mount system. Covering ultra-wide 18mm through to a natural 40mm perspective, it is ideal for travel, gimbal work, documentary shooting, and everyday filmmaking. Its small size makes it a perfect pairing with compact cameras such as the Lumix S9 while still delivering modern autofocus performance and strong optical quality.",
+  "image": "/placeholders/lens-1.svg",
+  "kitIncludes": [
+    "Panasonic Lumix S 18-40mm lens",
+    "Front cap + rear cap",
+    "Lens hood",
+    "Protective pouch"
+  ],
+  "specs": {
+    "Mount": "L-Mount",
+    "Focal Length": "18–40 mm",
+    "Aperture": "f/4.5 – f/6.3",
+    "Coverage": "Full Frame",
+    "Minimum Focus": "0.15 m",
+    "Max Magnification": "0.28×",
+    "Filter Thread": "62 mm",
+    "Optical Design": "8 elements in 7 groups",
+    "Weight": "155 g",
+    "Focus": "Autofocus"
+  }
+}
+]
