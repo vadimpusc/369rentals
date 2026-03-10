@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2d2d2d"/>
+      <stop offset="1" stop-color="#121212"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0.2" cy="0.2" r="1">
+      <stop offset="0" stop-color="#ffd86a" stop-opacity="0.85"/>
+      <stop offset="0.55" stop-color="#ff5bd6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#g)"/>
+  <rect width="1400" height="900" fill="url(#r)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2">
+    <path d="M120 680 C 320 520, 470 740, 700 600 S 1040 460, 1260 560"/>
+    <path d="M140 220 C 360 360, 520 160, 700 300 S 980 480, 1240 340"/>
+  </g>
+  <g font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" fill="#ffffff">
+    <text x="70" y="92" font-size="34" font-weight="600" opacity="0.92">San Roku Ku</text>
+    <text x="70" y="138" font-size="16" letter-spacing="4" opacity="0.55">LENS PLACEHOLDER</text>
+    <text x="70" y="820" font-size="14" opacity="0.52">Replace with your own product photography.</text>
+  </g>
+</svg>
